@@ -1,0 +1,30 @@
+b'<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n<geonames style="MEDIUM">\n    
+<totalResultsCount>52761</totalResultsCount>\n   
+ <geoname>\n       
+  <toponymName>Vienna</toponymName>\n        
+  <name>Vienna</name>\n        
+  <lat>48.20849</lat>\n        
+  <lng>16.37208</lng>\n       
+   <geonameId>2761369</geonameId>\n       
+    <countryCode>AT</countryCode>\n        
+    <countryName>Austria</countryName>\n        
+    <fcl>P</fcl>\n       
+    <fcode>PPLC</fcode>\n   
+</geoname>\n    
+<geoname>\n        
+<toponymName>Graz</toponymName>\n       
+ <name>Graz</name>\n        
+ <lat>47.06667</lat>\n        
+ <lng>15.45</lng>\n        
+ <geonameId>2778067</geonameId>\n        
+ <countryCode>AT</countryCode>\n       
+  <countryName>Austria</countryName>\n        
+  <fcl>P</fcl>\n        
+  <fcode>PPLA</fcode>\n    
+  </geoname>\n    
+  <geoname>\n        
+  <toponymName>Salzburg</toponymName>\n        
+  <name>Salzburg</name>\n        
+  <lat>47.79941</lat>\n        
+  <lng>13.04399</lng>\n        
+  <geonameId>2766824</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>P</fcl>\n        <fcode>PPLA</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Linz</toponymName>\n        <name>Linz</name>\n        <lat>48.30639</lat>\n        <lng>14.28611</lng>\n        <geonameId>2772400</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>P</fcl>\n        <fcode>PPLA</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Republic of Austria</toponymName>\n        <name>Austria</name>\n        <lat>47.33333</lat>\n        <lng>13.33333</lng>\n        <geonameId>2782113</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>A</fcl>\n        <fcode>PCLI</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Innsbruck</toponymName>\n        <name>Innsbruck</name>\n        <lat>47.26266</lat>\n        <lng>11.39454</lng>\n        <geonameId>2775220</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>P</fcl>\n        <fcode>PPLA</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Tyrol</toponymName>\n        <name>Tyrol</name>\n        <lat>47</lat>\n        <lng>11.5</lng>\n        <geonameId>2763587</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>L</fcl>\n        <fcode>RGN</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Gro\xc3\x9fglockner</toponymName>\n        <name>Grossglockner</name>\n        <lat>47.0744</lat>\n        <lng>12.694</lng>\n        <geonameId>2777697</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>T</fcl>\n        <fcode>MT</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Floridsdorf</toponymName>\n        <name>Floridsdorf</name>\n        <lat>48.25</lat>\n        <lng>16.4</lng>\n        <geonameId>2779469</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>P</fcl>\n        <fcode>PPLX</fcode>\n    </geoname>\n    <geoname>\n        <toponymName>Simmering</toponymName>\n        <name>Simmering</name>\n        <lat>48.18333</lat>\n        <lng>16.43333</lng>\n        <geonameId>2765028</geonameId>\n        <countryCode>AT</countryCode>\n        <countryName>Austria</countryName>\n        <fcl>P</fcl>\n        <fcode>PPLX</fcode>\n    </geoname>\n</geonames>\n'

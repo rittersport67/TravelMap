@@ -1,0 +1,30 @@
+<trips>
+    <trip>
+        <city>Vienna</city>
+        <country>Austria</country>
+        <latitude>48.20849</latitude>
+        <longitude>16.37208</longitude>
+    </trip>
+    <trip>
+        <city>London</city>
+        <country>United Kingdom</country>
+        <journey>
+            <transportation>Plane</transportation>
+            <inbound_journey>Karlsruhe / Baden-Baden Airport</inbound_journey>
+            <outbound_journey>London Stansted Airport</outbound_journey>
+        </journey>
+        <latitude>51.50853</latitude>
+        <longitude>-0.12574</longitude>
+    </trip>
+    <trip>
+        <city>Seoul</city>
+        <country>South Korea</country>
+        <journey>
+            <transportation>Plane</transportation>
+            <inbound_journey>Frankfurt International Airport</inbound_journey>
+            <outbound_journey>Incheon International Airport</outbound_journey>
+        </journey>
+        <latitude>37.566</latitude>
+        <longitude>126.9784</longitude>
+    </trip>
+</trips>
